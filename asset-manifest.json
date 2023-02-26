@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lab2react/static/css/main.beafd025.css",
+    "main.js": "/lab2react/static/js/main.9ab1afc4.js",
+    "static/js/787.2a10f9db.chunk.js": "/lab2react/static/js/787.2a10f9db.chunk.js",
+    "static/media/vattenfall.JPG": "/lab2react/static/media/vattenfall.136b6d00a11473f3e1f9.JPG",
+    "static/media/DSC_0465.JPG": "/lab2react/static/media/DSC_0465.681ab968667d00965454.JPG",
+    "static/media/setup.jpg": "/lab2react/static/media/setup.85614f8dc2c756d0a035.jpg",
+    "static/media/moped.jpg": "/lab2react/static/media/moped.881876198cf89a302884.jpg",
+    "index.html": "/lab2react/index.html",
+    "main.beafd025.css.map": "/lab2react/static/css/main.beafd025.css.map",
+    "main.9ab1afc4.js.map": "/lab2react/static/js/main.9ab1afc4.js.map",
+    "787.2a10f9db.chunk.js.map": "/lab2react/static/js/787.2a10f9db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beafd025.css",
+    "static/js/main.9ab1afc4.js"
+  ]
+}
