@@ -1,0 +1,124 @@
+* {
+    box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(to left, rgb(207, 166, 207) 0%, rgb(163, 90, 163)100%);
+    background-size: cover;
+    
+    
+}
+
+/* Container */
+.main-section {
+    display: flex;
+    flex-wrap: wrap; 
+    
+} 
+
+/* Create two columns */
+/* main-content - right column*/
+.main-content {
+    flex: 30%;
+    padding: 20px;
+    
+}
+/* Left column*/ 
+.side-section {
+    flex: 30%;
+}
+
+ul {
+    padding: 20px;
+    margin: 20px;
+}
+
+.logo {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 50px;
+}
+
+.logo:hover{
+    cursor: pointer;
+}
+
+/* Style the main content text - Hem - Om mig */
+.main-text {
+    padding: 6px;
+    font-size: large;
+}
+
+/* Style profile photo - Hem */
+.profile-photo {
+    width: 100%;
+    padding: 20px;
+    opacity: 0.7;
+}
+/* Style profile photo - Om mig */
+.profile-img {
+    width: 90%;
+    padding: 20px;
+    border-radius: 50%;
+    box-shadow: 12px 10px rgb(158,123,158);
+}
+
+/* Style computer photo - Hem */
+.setup-photo {
+    width: 90%;
+    padding: 20px;
+    border: 2px solid rgb(218, 171, 223);
+}
+
+/* Style profile photo - CV */
+.img-profile {
+    width: 90%;
+    padding: 20px;
+    justify-content: end;
+}
+
+.modal {
+    display: block;
+
+}
+
+.gitLink {
+    text-align: left;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+/* Style links on Kontakt*/
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Style links on Kontakt*/
+.unList li {
+    list-style: none;
+}
+
+/* Style the content in Personinformationen */
+.adress, .contact {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.portfolio {
+  text-align: center;  
+}
+
+footer {
+    padding: 20px;
+}
+/* Responsive layout */
+@media screen and (max-width: 800px) {
+    .main-section {
+        flex-direction: column;
+    }
+}
