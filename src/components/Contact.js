@@ -12,20 +12,20 @@ export const ContactComponent = () => {
                 <h4>Student</h4>
             </section>
             <hr></hr>
-            <section class="main-section">
-                <section class="side-section">
-                    <h2 class="info">Personinformation: </h2>
-                    <p class="adress">Kristina Eriksson<br/>
+            <section className="main-section">
+                <section className="side-section">
+                    <h2 className="info">Personinformation: </h2>
+                    <p className="adress">Kristina Eriksson<br/>
                     Norrvägen 32<br/>
                     82460 Forsa<br/>
                     Sverige
                     </p>
-                    <p class="contact">0730389194<br/>
+                    <p className="contact">0730389194<br/>
                     wetonen@gmail.com<br/>
                     Körkort: Ja
                     </p>
                 </section>
-                <section class="main-content">
+                <section className="main-content">
                     <h4>Sammanfattning</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                         Enim assumenda totam fuga pariatur ab numquam ipsum vero 
@@ -33,8 +33,8 @@ export const ContactComponent = () => {
                         earum iure illum, iusto dolorum beatae?
                     </p>
                     <section className="container">
-                        <section class="side-content">
-                            <ul class="unList">
+                        <section className="side-content">
+                            <ul className="unList">
                                 <li>
                                     <a href="tel:+4630389194">
                                         <img src={phone} role="link" alt="Telefon"/>
@@ -47,8 +47,8 @@ export const ContactComponent = () => {
                                 </li>
                             </ul>
                         </section>
-                        <section class="main">
-                            <ul class="unList">
+                        <section className="main">
+                            <ul className="unList">
                                 <li>
                                     <a href="https://www.facebook.com/kristina.eriksson.501" target="_blank" rel="noopener noreferrer">
                                         <img src={facebook} role="link" alt="Facebook"/>

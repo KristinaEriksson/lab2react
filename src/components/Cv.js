@@ -2,6 +2,7 @@ import {useState, useEffect} from 'react';
 import vattenfall from '../images/vattenfall.JPG';
 
 
+
 export function CvComponent() {
     const [error, setError] = useState(null);
     const [isloaded, setIsLoaded] = useState(false);
@@ -10,7 +11,7 @@ export function CvComponent() {
 
 
     useEffect(() => {
-        fetch('./cv.json')
+        fetch('/cv.json')
         .then(res => res.json())
         .then(
             (result)=>{

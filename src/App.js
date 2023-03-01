@@ -6,7 +6,7 @@ import { PortfolioComponent } from './components/Portfolio.js';
 import { ContactComponent} from './components/Contact.js';
 import { EasterEggComponent } from "./components/Secret.js";
 import Footer from './components/Footer.js';
-import {BrowserRouter as Router, HashRouter, Route, Routes} from "react-router-dom"
+import {BrowserRouter as Router, HashRouter, Route, Routes} from "react-router-dom";
 import './style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 

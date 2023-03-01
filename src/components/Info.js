@@ -5,10 +5,10 @@ import jag from '../images/DSC_0465.JPG';
 export const InfoComponent = () => {
     return (
         <section className="main-section">
-            <figure class="side-section">
-            <img class="profile-img" src={jag} alt="Profilbild på mig"/>
+            <figure className="side-section">
+            <img className="profile-img" src={jag} alt="Profilbild på mig"/>
             </figure>
-            <section class="main-content">
+            <section className="main-content">
                 <h2>KRISTINA ERIKSSON</h2>
                 <h3>Systemutvecklare .NET, Student</h3>
                     <p className="main-text">

@@ -30,7 +30,7 @@ export const EasterEggComponent = () => {
                 </Modal.Header>
                 <Modal.Body>
                     <div className="video">
-                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vMDgekSlkD0?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; autoplay; encrypted-media" allowFullScreen></iframe>
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vMDgekSlkD0?autoplay=1" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; autoplay; encrypted-media" allowFullScreen></iframe>
                     </div>
                 </Modal.Body>
                 <Modal.Footer>

@@ -10,9 +10,9 @@ export const HomeComponent = () => {
             </figure>
             <section className="main-content">
                 <h2>Välkommen till min hemsida!</h2>
-                <p class="main-text">Jag är en glad tjej med stort intresse för IT och teknik.
+                <p className="main-text">Jag är en glad tjej med stort intresse för IT och teknik.
                 Jag är intresserad av ett jobb där jag kan få möjligheten att utvecklas och växa!</p>
-                <p class="main-text">Jag skulle beskriva mig som nyfiken och är en mycket drivande, engagerad och ambitiös person.
+                <p className="main-text">Jag skulle beskriva mig som nyfiken och är en mycket drivande, engagerad och ambitiös person.
                 Jag ogillar att lämna något halvdant. Jag har lätt för att samarbeta med andra människor,
                 men jag tycker även om att jobba självständigt.</p>
                 <figure className="setup">
