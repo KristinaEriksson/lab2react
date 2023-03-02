@@ -3,12 +3,12 @@
         {
             "namn": "Vårdbiträde på Hudiksvallskommun, Hudiksvall",
             "datum": "Oktober 2002 - Nuvarande",
-            "beskrivning": "Personlig Assistent på Hudiksvallskommun, som assistent ska man utföra sina arbetsuppgifter\npå någon annans sätt- och utan att lägga några värderingar i det. Man får sätta sina egna vanor åt sidan\noch sätta fokus på den assistansberättigade.\nDet gäller att vara flexibel och lösa eventuella problem efter bästa förmåga. Man måste vara\n ärlig, ansvarsfull, lyhörd och serviceminded. Jobbet som personlig assistent går framför\nallt ut på att samarbeta med andra människor."
+            "beskrivning": "Personlig Assistent på Hudiksvallskommun, som assistent ska man utföra sina arbetsuppgifter\npå någon annans sätt- och utan att lägga några värderingar i det. Man får sätta sina egna vanor åt sidan\noch sätta fokus på den assistansberättigade.\nDet gäller att vara flexibel och lösa eventuella problem efter bästa förmåga. Man måste vara\n ärlig, ansvarsfull, lyhörd och serviceminded. Jobbet som personlig assistent går framför\nallt ut på att samarbeta med andra människor.\nJag hade även ansvar av inköp av skyddsutrutsning m.m, dokumentationsansvarig och hälsoinspiratör."
         },
         {
             "namn": "Gyminstruktör på Form & Figur, Hudiksvall",
             "datum": "2014 - 2015",
-            "beskrivning": "Ledde pass i gymmet och finnas tillhands i gymmet för den som hade frågor. Skötte även kassa och bokningar."
+            "beskrivning": "Ledde pass i gymmet och fannas tillhands i gymmet för den som hade frågor. Skötte även kassa och bokningar."
         },
         {
             "namn": "Målare, IKEA, Trondheim",
@@ -17,7 +17,8 @@
         },
         {
             "namn": "Vikarie på Hudiksvallskommun, Hudiksvall",
-            "datum": "Sommaren 2001 - våren 2002"
+            "datum": "Sommaren 2001 - våren 2002",
+            "beskrivning": "Täckte upp olösta pass som vårdbiträde."
         }
     ],
     "utbildning": [

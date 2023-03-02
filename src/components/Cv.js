@@ -8,6 +8,7 @@ export function CvComponent() {
     const [isloaded, setIsLoaded] = useState(false);
     const [projects, setProjects] = useState([]);
     
+    
 
 
     useEffect(() => {
@@ -23,7 +24,7 @@ export function CvComponent() {
                 setError(error);
             }
         )
-    },[])
+    }, [])
     if(error){
         return <div>Error: {error.message}</div>
     }
